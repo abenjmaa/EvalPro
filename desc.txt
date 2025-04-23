@@ -1,0 +1,181 @@
+les objectifs de l'application : 
+Permettre aux évaluateurs d'attribuer une note d'évaluation à chaque collaborateur. Cette note sera calculée automatiquement selon le même principe qu’un bulletin scolaire : le collaborateur est évalué selon six critères, chacun étant noté individuellement, puis multiplié par un coefficient reflétant son poids dans l’évaluation.
+
+Chaque collaborateur peut accéder Via son code aux critères de son évaluation , aux résultats de son évaluation : l'évaluation du supérieur hiéarchique (notes) 
+
+Permettre l'affichage de l'historique des évaluations des collaborateurs par exercice, avec une illustration sous forme de courbe montrant l'évolution de la performance de chaque collaborateur au fil des années.
+
+Permettre l'affichage d'un tableau comparatif par critère entre l'évaluation du supérieur hiérarchique et l'autoévaluation du collaborateur
+
+Permettre aux collaborateurs de fournir un feedback sur leur évaluation
+
+les étapes de l'évaluation
+1-préparation des donnés servant de base pour mener l'évaluation : Stratégies du cabinet , les critères d'évaluation des collaborateurs et attribution  des coifficients multiplicateurs
+2-Evaluation du supérieur hiéarchique: note attribué à  chaque collaborateur
+3-Autoévaluation des collaborateurs: note attribué par le collaborateur lui-même pour évaluer ses performances
+4- Recomandations d'amélioration et plan de redressements 
+
+étape 1:préparation des donnés servant de base pour mener l'évaluation :	
+1 : Choix de la Stratégie du Cabinet d'Expertise Comptable pour l'exercice objet de l'évaluation 	
+Utilité de l'étape et besoins 
+étape réservé à ll'évaluateur : permettre à l'évaluateur de cocher la stratégie de son cabinet qui sera par la suite déterminante dans le choix et le classemnt  des critère d'évaluation de ses collaborateurs 
+
+. Stratégies du Cabinet (Veuillez cocher la stratégie actuelle de votre cabinet) :	
+☐ Réduction des coûts	
+Objectif : Optimiser les coûts sans compromettre la qualité des services comptables.	
+☐ Différenciation	
+Objectif : Se distinguer en offrant des services comptables à haute valeur ajoutée (par exemple, des conseils personnalisés, des outils innovants pour les clients).	
+☐ Spécialisation	
+Objectif : Se concentrer sur un secteur spécifique (par exemple, les PME, les start-up, le secteur immobilier) en développant une expertise poussée.	
+☐ Autre (à préciser) : _________________________	
+	
+	
+2. choix et Pondération des Critères d'Évaluation :	
+Utilité de l'étape et besoins 
+permettre à l'évaluateur de hiéarchiserles critères d’évaluation des performances en fonction     des priorités stratégiques du cabinet Chaque critère est pondéré par un coefficient multiplicateur, où le critère le plus prioritaire reçoit le coefficient le plus élevé , Les coefficients multiplicateurs seront utilisés par la suite dans le calcul de la note moyenne de chaque collaborateur, selon le même principe qu'un bulletin scolaire
+
+(Cochez et classez les critères selon leur priorité):	
+1.             Qualité du travail produit	
+Importance de la qualité technique, de la précision et l'exactitude des travaux réalisés.	
+Coefficient (1 à 6) : ______	
+2.             Efficience	
+Capacité à accomplir les tâches dans les délais impartis avec un bon usage des ressources.	
+Coefficient (1 à 6) : ______	
+3.             Auto-évaluation	
+Prise en compte de la capacité du collaborateur à s’évaluer et à identifier ses axes d’amélioration.	
+Coefficient (1 à 6) : ______	
+4.             Formation continue	
+Engagement dans le développement des compétences professionnelles via des formations.	
+Coefficient (1 à 6) : ______	
+5.             Respect des principes éthiques	
+Conformité aux normes déontologiques et aux règles éthiques propres à la profession.	
+Coefficient (1 à 6) : ______	
+6.             Intelligence comportementale	
+Capacité à adapter son comportement, à faire preuve d’empathie, et à gérer ses émotions dans des situations de travail.	
+Coefficient (1 à 6) : ______	
+7.             Autre critère (à préciser) : ____________________	
+Coefficient (1 à 7 ): ______	
+Le coefficient multiplicateur peut aller jusqu'à 7 dans le cas où l'évaluateur juge nécessaire d'ajouter un critère supplémentaire, en plus des 6 critères déjà proposés	
+	
+étape  2: Evaluation du supérieur hiéarchique: note final attribué= (note attribué à chaque critère *coifficient multiplicateur du dit critère )/somme des coifficients 	
+
+chaque critère est noté / 100 points	
+1- le critère de la qualité du travail : 	noté /100 points
+les sous critères de la qualité	
+Minutie et soin apporté au travail[1]	40 points
+Méthode de travail	20 points
+Compétences et Qualité Technique de travail	40 points
+Note  attribué à la qualité du travail  avant feedback des clients :	_____/100_
+Bonus ou Malus relatif au feedback des clients : ______	
+Coefficient multiplicateur du critère : ______	
+Appréciation globale ajustée et pondérée 	(note/100 du critère +bonus ou-Malus )*coifficient Multiplicateur
+	
+Exemple	
+Minutie et soin apporté au travail[1]	20/100
+Méthode de travail	20/100
+Compétences et Qualité Technique de travail	20/100
+	
+Note  attribué à la qualité du travail  /100 avant feedback des clients :	60/100
+Bonus relatif au feedback des clients : ______	2
+Coefficient multiplicateur du critère : 	6
+Appréciation globale ajustée et pondérée 	372
+	
+2- le critère de l'éfficience : 	
+Productivité 	20 points
+Gestion de temps 	40 points
+Gestion des imprévus	20 points
+Optimisation des Méthodes de travail	20 points
+note /100	
+Coefficient multiplicateur du critère : ______	______
+Appréciation globale pondérée 	note /100*Coefficient multiplicateur du critère 
+	
+3- le critère de la formation continue : 	
+Adaptabilité et veille technique :	40 points
+Engagement dans la participation aux formations 	40 points
+Mise en application des connaissances acquises :	20 points
+note /100	
+Coefficient multiplicateur du critère : ______	______
+Appréciation globale pondérée 	note /100*Coefficient multiplicateur du critère 
+	
+Critère n°5- l'autoévaluation : 	
+Objectivité : 	20 points
+Conscience de soi 	20 points
+Réflexion critique 	20 points
+Ouverture à la critique 	20 points
+Honnêteté :	20 points
+note /100	
+Coefficient multiplicateur du critère : ______	______
+Appréciation globale pondérée 	note /100*Coefficient multiplicateur du critère 
+	
+Critère n°5. Respect des principes éthiques	
+le principe du professionnalisme se compose de :	60
+Adaptabilité 	20
+Réactivité : 	20
+Intégrité :	20
+confidentialité 	40
+note /100	
+Coefficient multiplicateur du critère : ______	
+Appréciation globale pondérée 	
+Critère n°6. l'intelligence comportemental	
+ le critère d'intelligence comportementale sera noté sur 200 pour les collaborateurs occupant une fonction d'encadrement, avec 100 points supplémentaires attribués aux compétences en leadership et en gestion d'équipe.	
+	
+Compétences Intra personnelles.	
+Motivation et Initiatives 	10
+Maîtrise de soi, attitude positive 	10
+Autonomie 	10
+Présence au travail 	10
+Compétences Interpersonnelles.	
+Civilité	10
+Respect :	10
+Communication écrite	10
+Communication oral	10
+Collaboration	20
+Gestion d’équipe* : critères d’évaluation réservé aux collaborateurs exerçant la fonction d’encadrement	
+Planification 	10
+Organisation	10
+Direction	10
+Pédagogie	10
+Capacité à partager le savoir	10
+Capacité à évaluer justement	10
+Encadrement et Stimulation	10
+Exemplarité	20
+résolution de conflits	10
+	
+note /100	
+Coefficient multiplicateur du critère : ______	
+Appréciation globale pondérée 	
+	
+Section Réservée à la Pénalisation des Comportements Nuisibles à la Performance Collective	
+Ces comportements, qui vont au-delà d’un manque de respect quotidien, sont spécifiquement pénalisés dans la fiche d’évaluation par un signe moins pour chaque comportement grave en plus de l’évaluation des compétences interpersonnelles générales, cette pénalité distincte est appliquée pour refléter la gravité de ces comportements sans créer de double pénalisation.	
+Exemples de comportements nuisibles à la performance collective : • Propagation de rumeurs • Appropriation de crédit pour le travail des autres • Comportements politiciens visant à manipuler ou diviser • Intimidation et harcèlement en milieu de travail • Bavardage excessif et création de conflits entre collègues 	
+	
+[1]Les signes moins seront retranchés de la note attribuée par le supérieur hiérarchique concernant l'intelligence comportementale.	
+Note attribuée par le supérieur hiérarchique sur le critère d'intelligence   comportementale (avant retranchement des pénalités) :	
+	
+·Somme des pénalités accordées :_____	
+	
+·Note après pénalisation :_____	
+	
+·Coefficient Multiplicateur : _____	
+	
+	
+·Appréciation globale pondérée :_____	
+	
+Note finale = somme des notes attribuées aux critères d'évaluation pondérées par les coefficients multiplicateurs / somme des coefficients.	
+	
+	
+	
+Interprétation des Résultats :	
+·                ☐Insuffisant (10-40/100): Des améliorations sont nécessaires pour atteindre les objectifs fixés.	
+Commentaires : ______________________________________________________________________	
+·                ☐Satisfaisant (50-60/100): La performance est acceptable, mais des opportunités d'amélioration existent.	
+Commentaires : ______________________________________________________________________	
+·                ☐Positif (70-80/100): Bonne performance, avec des résultats qui répondent aux attentes.	
+Commentaires : ______________________________________________________________________	
+☐Excellent (90-100/100): Performance exceptionnelle, dépassant largement les objectifs.	
+	
+	
+	
+étape  3	
+Autoévaluation : le collaborateur procède lui-même à son évaluation selon les memes critères et les coifficients déjà choisie par l'évaluateur 	
+
